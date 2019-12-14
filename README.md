@@ -7,4 +7,4 @@
 
 [Table] (https://bondarenkoant.github.io/Table/ "первая домашка")
 
-[kinoMonster] (bondarenkoant.github.io/kinoMonster/) "KinoMonster"
+[kinoMonster] (https://bondarenkoant.github.io/kinoMonster/) "KinoMonster"
